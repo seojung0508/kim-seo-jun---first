@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>자기소개서</h1>
+    안녕하세요 제 이름은 김서정입니다.<br> 열심히 해서 <strong>프론트엔드 개발자</strong>가 되고싶습니다😊❤️
+    <h2>좋아하는 음식</h2>
+    <div>
+        <ul>
+            <li>회, 해산물</li>
+            <li>치킨</li>
+            <li>떡볶이</li>
+        </ul>
+    </div>
+    <h2>좋아하는 가수</h2>
+    <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MTNfMjU5%2FMDAxNjI2MTUxMTkyOTY1.GofrZwD8gTkV2iloATfr_5EwunQA1csQ7zJsK19NA3wg.Ofz62yC75m8pdt7VIqozlDRar9y6urgag6gZ30AIwK4g.JPEG.wls3845%2FIMG_8092.JPG&type=sc960_832"
+        width="400px" height="auto"> <br>오피셜 히게단디즘
+    <div><a href="https://www.youtube.com/watch?v=PIax8P9F43o">히게단 최애 노래 들으러가기</a></div>
+    <h2>좋아하는 노래</h2>
+    <div><audio src="코딩연습/y2mate.com - Karencici   愛你但說不出口 Official Music Video.mp3" controls></audio>
+        <a href="">오디오 넣는법 보기</a></div><br>
+    <table border="1" width="200px">
+        <tr bgcolor="pink">
+            <th>질문</th>
+            <th>답변</th>
+        </tr>
+        <tr>
+            <td>사는곳</td>
+            <td>korea</td>
+        </tr>
+        <tr>
+            <td>나이</td>
+            <td>3짤</td>
+        </tr>
+    </table>
+    <p>테이블 쓰는 방법을 모르겠다고?<u>그럼 검색해봐!</u></p>
+    <h2>연락&문의</h2>
+    <p><input type placeholder="궁금한 사항을 써주세요"><button>전송</button></p>
+</body>
+
+</html>
